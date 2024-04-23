@@ -35,4 +35,9 @@ class LearningSkills extends SoftwareDeveloper {
 </p>
 
 
+<a href="https://github.com/Neel2904">
+   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jahzeelsantacruzc&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</a>
+
+
 
