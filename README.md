@@ -31,5 +31,5 @@ class LearningSkills extends SoftwareDeveloper {
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,sass,postman,figma,git,github,gitlab,trello&perline=13" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,sass,postman,figma,git,github,gitlab,trello&perline=12" />
 </p>
