@@ -11,7 +11,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript', Python];
+  languages  = ['JavaScript', 'TypeScript', 'Python'];
   frameworks = ['React'];
 }
 ```
