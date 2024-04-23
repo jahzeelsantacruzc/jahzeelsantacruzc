@@ -8,12 +8,9 @@ class Bio extends SoftwareDeveloper {
   title    = 'Software Engineer';
   pronouns =  'she | her';
   location = 'Durango, México';
+  age = '22 years old';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript', 'Python'];
-  frameworks = ['React'];
-}
 ```
 <!--h1 without bottom border-->
 <div id="user-content-toc">
