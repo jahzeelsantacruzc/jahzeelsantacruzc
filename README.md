@@ -1,6 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there 👋, I'm Jahzeel</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there 👋 </h1></summary>
+     <summary><h2 style="display: inline-block">I'm Jahzeel </h2></summary>
   </ul>
 </div>
 
@@ -31,7 +32,7 @@ class LearningSkills extends SoftwareDeveloper {
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,sass,postman,figma,git,github,gitlab&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,sass,postman,figma,git,github,gitlab,trello&perline=13" />
 </p>
 
 
