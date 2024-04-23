@@ -1,7 +1,9 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there 👋 </h1></summary>
-     <summary><h2 style="display: inline-block">I'm Jahzeel </h2></summary>
+    <summary><h1 style="display: inline-block">Hello world! ![image](https://github.com/jahzeelsantacruzc/jahzeelsantacruzc/assets/104944869/885d9626-51be-4d2e-8aa7-587a741fcd72)
+ </h1></summary>
+     <summary><h2 style="display: inline-block">I'm Jahzeel ![image](https://github.com/jahzeelsantacruzc/jahzeelsantacruzc/assets/104944869/bdf28b08-730c-4234-85c6-4f0c4cec9361)
+ </h2></summary>
   </ul>
 </div>
 
