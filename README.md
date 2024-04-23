@@ -1,7 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello world!🌎 </h1></summary>
-     <summary><h2 style="display: inline-block">I'm Jahzeel 👩🏻‍💻 </h2></summary>
+    <summary><h1 style="display: inline-block">Hello world! I'm Jahzeel 👩🏻‍💻 </h1></summary>
   </ul>
 </div>
 
